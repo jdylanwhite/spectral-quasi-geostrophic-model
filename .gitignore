@@ -1,0 +1,3 @@
+data/*.h5
+data/*.jld2
+.DS_Store
